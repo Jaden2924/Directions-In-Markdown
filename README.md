@@ -8,8 +8,6 @@ A basketball
 A hoop (optional but very useful)
 An outdoor space or a high ceilinged room
 
-![Basketball Outside](images/Bball Outside.jpg)
-
 ## B.E.E.F.
 > Beef is an acronym to help you get started and remember how to shoot effectively
 
@@ -28,8 +26,6 @@ An outdoor space or a high ceilinged room
 ## Doing
 > With the basic principles down we can start shooting!
 
-
-
 1. Face the Basket
 2. Place your feet (think back to balance)
 3. Bend your knees and prepare to jump (this should be a fairly short jump a tiny bit forwards)
@@ -42,7 +38,5 @@ An outdoor space or a high ceilinged room
 > No one becomes MJ in a day.
 
 Things like this take persistence and practice, watching yourself, others, or having a friend watch you shoot are great ways to practice. Drills like one handed shooting up close and free throws are good ways to improve and cement your form.
-
-![Basketball Outside}(/assets/img/Bball shooter.jpg "Freethrows")
 
 > "You miss 100% of the shots you don't take. -Waye Gretzky" **Michael Scott**
