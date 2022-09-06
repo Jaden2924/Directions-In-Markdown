@@ -8,7 +8,7 @@ A basketball
 A hoop (optional but very useful)
 An outdoor space or a high ceilinged room
 
-![Basketball Outside}(/assets/img/Bball Outside.jpg "Outdoor Basketball")
+![Basketball Outside](images/Bball Outside.jpg)
 
 ## B.E.E.F.
 > Beef is an acronym to help you get started and remember how to shoot effectively
@@ -28,13 +28,13 @@ An outdoor space or a high ceilinged room
 ## Doing
 > With the basic principles down we can start shooting!
 
-![Shooting Process](/assets/img/Shooting process.jpg "The Shooting Process")
+
 
 1. Face the Basket
-2. Place your feet ~think back to balance~
-3. Bend your knees and prepare to jump ~this should be a fairly short jump a tiny bit forwards~
-4. As you are jumping bring the ball up toward in front of your forehead ~remember eyes on the basket and elbow under the ball~
-5. Once you reach the peak of your jump extend your arms upward and flick your hand forward as your arms finish extending ~use your fingers when flicking **not your palms or thumbs**~
+2. Place your feet (think back to balance)
+3. Bend your knees and prepare to jump (this should be a fairly short jump a tiny bit forwards)
+4. As you are jumping bring the ball up toward in front of your forehead (remember eyes on the basket and elbow under the ball)
+5. Once you reach the peak of your jump extend your arms upward and flick your hand forward as your arms finish extending (use your fingers when flicking **not your palms or thumbs**)
 6. Shoot the ball in arc between ~55 and ~70 degrees I suggest the higher end
 7. Hold your arms in the position they were in when you finished shooting until you land
 
