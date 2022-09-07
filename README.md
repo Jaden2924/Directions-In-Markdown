@@ -41,7 +41,7 @@ An outdoor space or a high ceilinged room
 ### Closing
 > No one becomes MJ in a day.
 
-Things like this take persistence and practice, watching yourself, others, or having a friend watch you shoot are great ways to practice. Drills like one handed shooting up close and free throws are good ways to improve and cement your form.
+Things like this take persistence and practice, watching yourself, others, or having a friend watch you shoot are great ways to practice. Drills like one handed shooting up close and free throws are good ways to improve and cement your form. Everyone's shot may look a little different, but following these general rules will improve your shot no doubt!
 
 ![Freethrow Attempt](https://github.com/Jaden2924/Directions-In-Markdown/blob/main/Images/Bball%20shooter.jpg)
 
