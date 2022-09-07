@@ -28,7 +28,7 @@ An outdoor space or a high ceilinged room
 ## Doing
 > With the basic principles down we can start shooting!
 
-![Shooting Process](https://github.com/Jaden2924/Directions-In-Markdown/blob/main/Images/Shooting%20process.jpg)
+![Shooting Process](https://github.com/Jaden2924/Directions-In-Markdown/blob/main/Silhouette.jpg)
 
 1. Face the Basket
 2. Place your feet (think back to balance)
