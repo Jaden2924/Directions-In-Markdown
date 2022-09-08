@@ -4,9 +4,9 @@
 > There are plenty of tricks and techniques to understand the basic and even more complex principles to improve your basketball form. But, in the end, there is no better tool than practice and muscle memory, the key to great shooting is consistency.
 
 ### Materials
-A basketball
-A hoop (optional but very useful)
-An outdoor space or a high ceilinged room
+A basketball,
+A hoop (optional but very useful),
+An outdoor space or a high ceilinged room (like a gym)
 
 ![BasketBall Outside](https://github.com/Jaden2924/Directions-In-Markdown/blob/main/Images/Bball%20outside.jpg)
 
