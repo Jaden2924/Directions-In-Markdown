@@ -11,7 +11,7 @@ An outdoor space or a high ceilinged room
 ![BasketBall Outside](https://github.com/Jaden2924/Directions-In-Markdown/blob/main/Images/Bball%20outside.jpg)
 
 ## B.E.E.F.
-> Beef is an acronym to help you get started and remember how to shoot effectively
+> Beef is an acronym to help you get started and remember how to shoot effectively. (Balance, Elbow, Eyes, Follow Through)
 
 -Balance
 : People often worry about not reaching the basket but with proper balance and techniques, it's less than effortless. Your body should be facing the basket with your feet shoulder-length apart. When shooting bend your knees and jump releasing the ball at the top of your jump.
@@ -22,7 +22,7 @@ An outdoor space or a high ceilinged room
 -Eyes
 : A seemingly obvious but still difficult part is keeping your eyes on the basket, which is only exponentially harder when a defender is rushing you. Eyes on the basket and aim for the back of the rim or the top of the front of the basket.
 
--Follow through
+-Follow Through
 : Once the ball is being released an often rushed factor is your follow through. As the ball is leaving your hands flick your shooting hand forward making a goose's neck and hold that position until landing. Holding this position helps improve the flicking motion of your shot and overall accuracy.  
 
 ## Doing
